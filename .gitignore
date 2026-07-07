@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data (keep structure but exclude large/binary files)
+# Note: Commit data/ folder so the app works on Streamlit Cloud out of the box
+# Uncomment below if you prefer to regenerate data on each deploy:
+# data/raw_trains.csv
+# data/clean_trains.csv
+# data/railway.db
