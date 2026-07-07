@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard for exploring Indian Railways train schedules, delay patterns, and performance metrics. Built with synthetic data resembling real Indian Railways operations.
 
-> Pure analytics & visualization — no machine learning.
+> Pure analytics & visualization 
 
 **[Live Demo](https://railway-analytics-mjdxubhsqtcyzozqps2ro9.streamlit.app)**
 
@@ -100,18 +100,6 @@ python scripts/refresh_data.py --records 500  # custom count
 
 ---
 
-## Screenshots
-
-> Add screenshots after deployment
-
-| View | Description |
-|:----:|:-----------:|
-| ![KPI Cards](screenshots/kpi_cards.png) | Top KPI cards |
-| ![Delay Trends](screenshots/delay_trends.png) | Monthly delay trend |
-| ![Route Analysis](screenshots/route_analysis.png) | Top delayed routes |
-| ![Heatmap](screenshots/heatmap.png) | Seasonal delay heatmap |
-
----
 
 ## Live Demo
 
