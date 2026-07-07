@@ -1,4 +1,4 @@
-﻿import os, random
+import os, random
 from datetime import datetime, timedelta
 import numpy as np
 import pandas as pd

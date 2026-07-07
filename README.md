@@ -1,10 +1,10 @@
-﻿# Indian Railways Analytics Dashboard
+# Indian Railways Analytics Dashboard
 
 An interactive Streamlit dashboard for exploring Indian Railways train schedules, delay patterns, and performance metrics. Built with synthetic data resembling real Indian Railways operations.
 
 > Pure analytics & visualization — no machine learning.
 
-**[Live Demo]** _(link after deployment)_
+**[Live Demo](https://railway-analytics-mjdxubhsqtcyzozqps2ro9.streamlit.app)**
 
 ---
 
@@ -60,7 +60,7 @@ railway-analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/railway-analytics.git
+git clone https://github.com/rudraprakashnayak/railway-analytics.git
 cd railway-analytics
 ```
 
@@ -115,7 +115,7 @@ python scripts/refresh_data.py --records 500  # custom count
 
 ## Live Demo
 
-**Streamlit Community Cloud**: _[Add your deployed app URL here]_
+**Streamlit Community Cloud**: https://railway-analytics-mjdxubhsqtcyzozqps2ro9.streamlit.app
 
 ---
 
@@ -130,3 +130,4 @@ python scripts/refresh_data.py --records 500  # custom count
 ## License
 
 Educational and portfolio project.
+

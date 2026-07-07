@@ -1,4 +1,4 @@
-﻿import os, subprocess, sys, sqlite3
+import os, subprocess, sys, sqlite3
 from pathlib import Path
 import pandas as pd
 import plotly.express as px
