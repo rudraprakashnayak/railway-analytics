@@ -4,7 +4,7 @@ An interactive Streamlit dashboard for exploring Indian Railways train schedules
 
 > Pure analytics & visualization — no machine learning.
 
-**[Live Demo]** _(link after deployment)_
+**[Live Demo](https://railway-analytics-mjdxubhsqtcyzozqps2ro9.streamlit.app)**
 
 ---
 
@@ -115,7 +115,7 @@ python scripts/refresh_data.py --records 500  # custom count
 
 ## Live Demo
 
-**Streamlit Community Cloud**: _[Add your deployed app URL here]_
+**Streamlit Community Cloud**: https://railway-analytics-mjdxubhsqtcyzozqps2ro9.streamlit.app
 
 ---
 
