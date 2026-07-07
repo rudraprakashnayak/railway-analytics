@@ -1,4 +1,4 @@
-﻿# Indian Railways Analytics Dashboard
+# Indian Railways Analytics Dashboard
 
 An interactive Streamlit dashboard for exploring Indian Railways train schedules, delay patterns, and performance metrics. Built with synthetic data resembling real Indian Railways operations.
 

@@ -1,4 +1,4 @@
-﻿import os, sqlite3
+import os, sqlite3
 import pandas as pd
 import numpy as np
 
