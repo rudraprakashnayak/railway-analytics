@@ -83,7 +83,7 @@ python scripts/clean_data.py
 streamlit run app.py
 ```
 
-The app opens at **http://localhost:8501**.
+The app opens at **https://railway-analytics-mjdxubhsqtcyzozqps2ro9.streamlit.app/**.
 
 > The dashboard auto-generates data on first run if the database doesn't exist.
 
