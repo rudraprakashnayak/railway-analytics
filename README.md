@@ -60,7 +60,7 @@ railway-analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/railway-analytics.git
+git clone https://github.com/rudraprakashnayak/railway-analytics.git
 cd railway-analytics
 ```
 
@@ -130,3 +130,4 @@ python scripts/refresh_data.py --records 500  # custom count
 ## License
 
 Educational and portfolio project.
+
